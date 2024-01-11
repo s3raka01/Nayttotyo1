@@ -22,10 +22,10 @@ namespace Nayttotyo
             if (listBox1.SelectedIndex == -1)
             {
                 MessageBox.Show("Valitse ensin resepti");
+                return;
             }
-            string resepti = listBox1.SelectedItem.ToString();
 
-            switch (resepti)
+            switch (listBox1.SelectedItem.ToString())
             {
                 case "BBQ-hampurilainen":
                     Form2 form2 = new Form2();
@@ -75,8 +75,7 @@ namespace Nayttotyo
                     this.Hide();
                     break;
             }
-           
-        }  
+        }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -90,11 +89,67 @@ namespace Nayttotyo
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (listBox1.SelectedIndex == -1)
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            if (listBox2.SelectedIndex == -1)
             {
                 MessageBox.Show("Valitse ensin resepti");
+                return;
             }
 
+            switch (listBox2.SelectedItem.ToString())
+            {
+                case "Banaanilettu":
+                    Form10 form10 = new Form10();
+                    form10.Show();
+                    this.Hide();
+                    break;
+
+                case "Muffinssi valkosuklaakuorrutteella":
+                    Form11 form11 = new Form11();
+                    form11.Show();
+                    this.Hide();
+                    break;
+
+                case "Mokkapala":
+                    Form12 form12 = new Form12();
+                    form12.Show();
+                    this.Hide();
+                    break;
+
+                case "Oreojuustokakku":
+                    Form13 form13 = new Form13();
+                    form13.Show();
+                    this.Hide();
+                    break;
+
+                case "Porkkanakakku":
+                    Form14 form14 = new Form14();
+                    form14.Show(); 
+                    this.Hide();
+                    break;
+
+                case "Suklaakakku":
+                    Form15 form15 = new Form15();
+                    form15.Show();
+                    this.Hide();
+                    break;
+
+                case "Tiramisu":
+                    Form16 form16 = new Form16();
+                    form16.Show();
+                    this.Hide();
+                    break;
+
+                case "Vadelmavalkosuklaa juustokakku":
+                    Form17 form17 = new Form17();
+                    form17.Show();
+                    this.Hide();
+                    break;
+            }
         }
     }
 }
