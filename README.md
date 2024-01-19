@@ -4,5 +4,6 @@
 Voit aina palata takaisin etusivulle 'takaisin' buttonista, joka löytyy jokaisen reseptin sivulta oikealta ylhäältä.
 
 Jos et valitse reseptiä ja painat 'resepti' buttonia, tulee ilmoitus, jossa kehotetaan valitsemaan resepti.</p>
+<img src="etusivu.PNG">
 <h2>Vuokaavio:</h2>
 <img src="reseptikirja_vuokaavio.PNG">
