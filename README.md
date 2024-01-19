@@ -1,6 +1,6 @@
 <h1>Näyttötyö</h1>
-<p></p>
-<h2></h2>
-<p></p>
+<h2>Sovelluksen toiminta</h2>
+<p style="font-size: 20px;">SOvellus toimii siten, että ensimmäiseltä sivulta voi valita reseptin, jonka haluaa valmistaa. Vaihtoehtoina on pääruoka tai jälkiruoka. Kun on valinnut reseptin listboxista, painetaan 'resepti' buttonia. Tämän jälkeen siirryt sivulle, jossa näkyy kyseinen resepti. 
+Voit aina palata takaisin etusivulle 'takaisin' buttonista, joka löytyy jokaisen reseptin sivulta oikealta ylhäältä.</p>
 <h2>Vuokaavio:</h2>
 <img src="reseptikirja_vuokaavio.PNG">
