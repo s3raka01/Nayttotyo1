@@ -7,3 +7,7 @@ Jos et valitse reseptiä ja painat 'resepti' buttonia, tulee ilmoitus, jossa keh
 <img src="etusivu.PNG">
 <h2>Vuokaavio:</h2>
 <img src="reseptikirja_vuokaavio.PNG">
+<h2>Koodi</h2>
+<h2>Kehitys</h2>
+<p>Sovellusta pystyy kehittämään paljon, mutta itse lisäisin enemmän reseptejä ja panostaisin ulkoasuun enemmän. 
+Toinen </p>
