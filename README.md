@@ -13,7 +13,8 @@ Jos et valitse reseptiä ja painat 'resepti' buttonia, tulee ilmoitus, jossa keh
 <img width="700" src="reseptikirja_vuokaavio.PNG">
 <h2>Koodi</h2>
 <p>Käytin suurimmaksi osaksi koodissa switch casea.</p>
+<img src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/c7e84cae-0d41-4ac7-bb68-a8b3fa3ccea3">
 <h2>Kehitys</h2>
 <p>Sovellusta pystyy kehittämään paljon, mutta itse lisäisin enemmän reseptejä ja panostaisin ulkoasuun enemmän. 
 Toiseksi voisi tehdä muutoksen, jossa voi lisätä ja muokata reseptejä.</p>
-<img src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/c7e84cae-0d41-4ac7-bb68-a8b3fa3ccea3">
+
