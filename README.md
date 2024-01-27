@@ -2,6 +2,7 @@
 <h2>Sovelluksen toiminta</h2>
 <p style="font-size: 30px;">Sovellus toimii siten, että ensimmäiseltä sivulta voi valita reseptin, jonka haluaa valmistaa. Vaihtoehtoina on pääruoka tai jälkiruoka. Kun on valinnut reseptin listboxista, painetaan 'resepti' buttonia. Tämän jälkeen siirryt sivulle, jossa näkyy kyseinen resepti.
 Voit aina palata takaisin etusivulle 'takaisin' buttonista, joka löytyy jokaisen reseptin sivulta oikealta ylhäältä.
+  
 <img width="400" src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/973634ab-2209-4841-986f-0a47fe48648e">
 <img width="400" src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/b9fe9836-d3be-47ee-99e0-03fde50ea6a5">
 
