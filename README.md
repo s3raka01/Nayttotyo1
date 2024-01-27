@@ -4,7 +4,7 @@
 Voit aina palata takaisin etusivulle 'takaisin' buttonista, joka löytyy jokaisen reseptin sivulta oikealta ylhäältä.
 <br>
 <img width="300" high="200" src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/973634ab-2209-4841-986f-0a47fe48648e">
-<img width="400" src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/b9fe9836-d3be-47ee-99e0-03fde50ea6a5">
+<img width="500" src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/b9fe9836-d3be-47ee-99e0-03fde50ea6a5">
 
 Jos et valitse reseptiä ja painat 'resepti' buttonia, tulee ilmoitus, jossa kehotetaan valitsemaan resepti.</p>
 <img src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/133c894e-ae37-44ca-ac15-233199847637">
