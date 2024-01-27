@@ -10,7 +10,7 @@ Jos et valitse reseptiä ja painat 'resepti' buttonia, tulee ilmoitus, jossa keh
 <img src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/133c894e-ae37-44ca-ac15-233199847637">
 
 <h2>Vuokaavio:</h2>
-<img width="400" src="reseptikirja_vuokaavio.PNG">
+<img width="700" src="reseptikirja_vuokaavio.PNG">
 <h2>Koodi</h2>
 <p>Käytin suurimmaksi osaksi koodissa switch casea.</p>
 <h2>Kehitys</h2>
