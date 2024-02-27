@@ -16,6 +16,7 @@ Jos et valitse reseptiä ja painat 'resepti' buttonia, tulee ilmoitus, jossa keh
 <img src= "https://github.com/s3raka01/Nayttotyo1/assets/151004488/c7e84cae-0d41-4ac7-bb68-a8b3fa3ccea3">
 <p>Laitoin jokaiselle formille allanäkyvän koodin takaisin-painikkeelle. Koodi kertoo, että uusi form on form1 (etusivu) ja sen hetkinen form piilotetaan/suljetaan.</p>
 <img width="416" alt="koodia" src="https://github.com/s3raka01/Nayttotyo1/assets/151004488/ceea3c50-9e9a-4a27-8630-6a1ac140102e">
+<img width="416" alt="koodiaa" src="https://github.com/s3raka01/Nayttotyo1/blob/main/koodiaaa.jpg">
 
 <h2>Kehitys</h2>
 <p>Sovellusta pystyy kehittämään paljon, mutta itse lisäisin enemmän reseptejä ja panostaisin ulkoasuun enemmän. 
