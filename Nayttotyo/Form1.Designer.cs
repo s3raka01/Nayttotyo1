@@ -69,7 +69,7 @@ namespace Nayttotyo
             this.listBox1.Location = new System.Drawing.Point(72, 125);
             this.listBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(233, 130);
+            this.listBox1.Size = new System.Drawing.Size(233, 109);
             this.listBox1.TabIndex = 1;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
@@ -114,7 +114,7 @@ namespace Nayttotyo
             "Vadelmavalkosuklaa juustokakku"});
             this.listBox2.Location = new System.Drawing.Point(72, 370);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(230, 130);
+            this.listBox2.Size = new System.Drawing.Size(230, 109);
             this.listBox2.TabIndex = 4;
             // 
             // label3

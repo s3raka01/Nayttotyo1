@@ -4,7 +4,9 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -12,9 +14,43 @@ namespace Nayttotyo
 {
     public partial class Form1 : Form
     {
+        private const int maxTime = 200;
         public Form1()
         {
             InitializeComponent();
+            Thread thread = new Thread(CloseAfterTime);
+            thread.Start();
+        }
+
+        private void CloseAfterTime()
+        {
+            int elapsedTime = 0;
+
+            while (true)
+            {
+                Thread.Sleep(1000); // Odota yksi sekunti
+
+                elapsedTime++;
+
+                if (elapsedTime >= maxTime)
+                {
+                    CloseForm();
+                    break;
+                }
+            }
+        }
+
+        private void CloseForm()
+        {
+            if (InvokeRequired)
+            {
+                Invoke(new Action(CloseForm));
+            }
+            else
+            {
+                MessageBox.Show("Ohjelma sammuu!");
+                Close();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -151,5 +187,7 @@ namespace Nayttotyo
                     break;
             }
         }
+
+        
     }
 }

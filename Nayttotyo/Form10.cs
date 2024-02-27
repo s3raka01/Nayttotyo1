@@ -23,5 +23,10 @@ namespace Nayttotyo
             form1.Show();
             this.Hide();
         }
+
+        private void Form10_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
